@@ -8,14 +8,14 @@
     },
     {
         "image": "https://raw.githubusercontent.com/Kosharti/Medic/2df94e7be32519bb4e5c2df2064d0a509685af4f/image/doctor2.png",
-        "doctorName": "Dr. Bessie Cole",
+        "doctorName": "Dr. Van Darkholme",
         "doctorRole": "Cardiologist",
         "date": "Monday, 13 June",
         "time": "1:00 - 2:00 PM"
     },
     {
         "image": "https://raw.githubusercontent.com/Kosharti/Medic/2df94e7be32519bb4e5c2df2064d0a509685af4f/image/doctor3.png",
-        "doctorName": "Dr. Babe Didriks",
+        "doctorName": "Dr. Anna Gog",
         "doctorRole": "Psychiatrist",
         "date": "Tuesday, 14 June",
         "time": "3:00 - 4:00 PM"
