@@ -1,0 +1,14 @@
+[
+    {
+        "doctorName": "Dr. Imran Syahir",
+        "doctorRole": "General Doctor",
+        "date": "Sunday, 12 June",
+        "time": "11:00 - 12:00 AM"
+    },
+    {
+        "doctorName": "Dr. Alice Johnson",
+        "doctorRole": "Cardiologist",
+        "date": "Monday, 13 June",
+        "time": "2:00 - 3:00 PM"
+    }
+]
