@@ -1,17 +1,20 @@
 [
     {
+        "image": "https://github.com/Kosharti/Medic/blob/41dc7271897993b710f26298d35adb7b4f1911d0/doctor1.png"
         "doctorName": "Dr. Imran Syahir",
         "doctorRole": "General Doctor",
         "date": "Sunday, 12 June",
         "time": "11:00 - 12:00 AM"
     },
     {
+        "image": "https://github.com/Kosharti/Medic/blob/41dc7271897993b710f26298d35adb7b4f1911d0/doctor2.png"
         "doctorName": "Dr. Bessie Coleman",
         "doctorRole": "Cardiologist",
         "date": "Monday, 13 June",
         "time": "1:00 - 2:00 PM"
     },
     {
+        "image": "https://github.com/Kosharti/Medic/blob/41dc7271897993b710f26298d35adb7b4f1911d0/doctor3.png"
         "doctorName": "Dr. Babe Didrikson",
         "doctorRole": "Psychiatrist",
         "date": "Tuesday, 14 June",
